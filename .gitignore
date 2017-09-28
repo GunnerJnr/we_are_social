@@ -207,4 +207,7 @@ DriverInclude.wxs
 compile_commands.json
 
 #Misc.
-*.bat
+*.bat venv
+*.pyc
+staticfiles
+.env
