@@ -15,12 +15,12 @@ DATABASES = {
 }
 
 # Stripe environment variables
-STRIPE_PUBLISHABLE = os.getenv('STRIPE_PUBLISHABLE', '<YOUR SECRET KEY HERE>')
-STRIPE_SECRET = os.getenv('STRIPE_SECRET', '<YOUR SECRET KEY HERE>')
+STRIPE_PUBLISHABLE = os.getenv('STRIPE_PUBLISHABLE', 'pk_test_EDwXAGGLO8YWJr05PUpRWFsd')
+STRIPE_SECRET = os.getenv('STRIPE_SECRET', 'sk_test_DKsnvqPsLCUlxdYDw2hG1FtF')
 
 # Paypal environment variables
-SITE_URL = 'http://127.0.0.1:8000'
+SITE_URL = 'we-are-social-project-staging.herokuapp.com'
 
-PAYPAL_NOTIFY_URL = 'https://<your ngrok URL>/a-very-hard-to-guess-url/'
+PAYPAL_NOTIFY_URL = 'we-are-social-project-staging.herokuapp.com'
 
-PAYPAL_RECEIVER_EMAIL = '<your paypal merchant email goes here>'
+PAYPAL_RECEIVER_EMAIL = 'gunnerjnr-business@live.co.uk'

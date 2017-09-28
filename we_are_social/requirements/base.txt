@@ -7,6 +7,7 @@ django-forms-bootstrap==3.1.0
 django-paypal==0.3.6
 django-tinymce==2.6.0
 djangorestframework==3.6.4
+gunicorn==19.4
 Pillow==3.1.1
 python-dateutil==2.6.1
 reusable-blog-app==1.0.0
