@@ -41,6 +41,14 @@
 },
 {
     "model": "sites.site",
+    "pk": 4,
+    "fields": {
+        "domain": "example.com",
+        "name": "example.com"
+    }
+},
+{
+    "model": "sites.site",
     "pk": 5,
     "fields": {
         "domain": "localhost:8000",
