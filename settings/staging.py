@@ -8,7 +8,7 @@ DEBUG = False
 
 # Load the ClearDB connection details from the environment variable
 DATABASES = {
-    'default': {'default': dj_database_url.config('CLEARDB_DATABASE_URL')}
+    'default': dj_database_url.config('CLEARDB_DATABASE_URL')
 }
 
 # disqus shortname
