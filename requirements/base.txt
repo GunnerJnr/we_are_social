@@ -37,7 +37,7 @@ pylint-plugin-utils==0.2.6
 python-dateutil==2.6.1
 pytz==2017.2
 requests==2.18.4
-git+https://github.com/GunnerJnr/reusable_blog_app
+https://github.com/GunnerJnr/reusable_blog_app
 singledispatch==3.4.0.3
 six==1.10.0
 sqlparse==0.2.3
