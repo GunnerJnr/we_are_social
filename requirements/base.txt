@@ -45,3 +45,4 @@ stripe==1.62.1
 traceback2==1.4.0
 urllib3==1.22
 wrapt==1.10.11
+wheel==0.24.0
