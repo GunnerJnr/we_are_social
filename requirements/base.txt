@@ -14,3 +14,4 @@ django-paypal==0.3.6
 stripe==1.62.1
 git+https://github.com/GunnerJnr/reusable_blog.git
 gunicorn==19.4
+whitenoise==3.2
