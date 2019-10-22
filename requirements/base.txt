@@ -1,7 +1,7 @@
 arrow==0.10.0
 beautifulsoup4==4.6.0
 django-disqus==0.5
-Django==1.11.4
+Django==1.11.23
 django-emoticons==1.2
 djangorestframework==3.9.1
 django-forms-bootstrap==3.1.0
