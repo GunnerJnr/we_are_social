@@ -3,7 +3,7 @@ beautifulsoup4==4.6.0
 django-disqus==0.5
 Django==1.11.4
 django-emoticons==1.2
-djangorestframework==3.6.4
+djangorestframework==3.9.1
 django-forms-bootstrap==3.1.0
 django-tinymce==2.6.0
 Pillow==3.1.1
